@@ -15,10 +15,12 @@ Key Questions
 ● Do sales figures vary between geographic regions?
 
 Data
+
 Rockbuster Data Set - This dataset was created by CareerFoundry for use in this analysis. 
 The dataset includes information on stores, staff, inventory, film categories, film names, film language, actors, 
 customers, rental history, payment history, and addresses for stores, staff, and customers.
 
 Tools
+
 The data was analyzed using a relational database management system and PostgreSQL.
 
