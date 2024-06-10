@@ -3,6 +3,7 @@ from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth
 its existing movie licenses to launch an online video rental service in order to stay competitive.
 
 Key Questions
+
 ● Which movies contributed the most/least to revenue gain?
 
 ● What was the average rental duration for all videos?
